@@ -1,0 +1,16 @@
+target
+lib_managed
+src_managed
+project/boot
+.DS_Store
+project/plugins/project/build.properties
+.idea
+.idea/
+*/.idea/
+*/.idea/*
+project/project/
+project/target/
+target/
+*/target/
+*.iml
+*/vcs.xml
